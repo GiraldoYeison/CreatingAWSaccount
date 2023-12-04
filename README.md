@@ -1,8 +1,6 @@
 # CreatingAWSaccount
 How to create an AWS account
 
-# CreatingAWSaccount
-How to create an AWS account
 
 <h1>Creating an AWS Account</h1>
 <div><b>Creation Date:</b> November 16, 2023</div>
